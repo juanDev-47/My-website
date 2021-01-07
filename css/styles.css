@@ -37,3 +37,17 @@ body {
 .navbar-dark {
      background-color: #512DA8;
 }
+
+.bg-secundary {
+     background-color: #eeb530;
+}
+
+.btn-primary {
+     background-color: #eeb530;
+     color: #0f0f0f;
+     border: #eeb530;
+}
+.btn-primary:hover {
+     background-color: #eeb530;
+     color: #512DA8;
+}
