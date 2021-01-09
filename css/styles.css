@@ -72,3 +72,30 @@ body {
      left: 0;
      min-height: 300px;
 }
+
+.color-primary {
+     color: #0f0f0f;
+}
+
+.radio-group 
+.not-active  {
+     color: #3276b1;
+     background-color: #fff;
+     border: 1px solid #0f0f0f;
+  }
+
+  .radio-group label {
+     overflow: hidden;
+  } 
+  .radio-group input {
+     height: 1px;
+     width: 1px;
+     position: absolute;
+     top: -10px;
+  }
+
+  #carouselButton {
+       right: 0px;
+       position: absolute;
+       bottom: 0px;
+  }
