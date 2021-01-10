@@ -99,3 +99,16 @@ body {
        position: absolute;
        bottom: 0px;
   }
+
+  .dark {
+     background-color: #512DA8;
+     color: white;
+  }
+
+  .pale {
+     background-color: #D1C4E9;
+  }
+
+  .gray {
+     background: #ddd;
+  }
